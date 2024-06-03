@@ -3,13 +3,13 @@ Phishing Email Filtering using NLP :
 Table of Contents :
 
 Project Description
-Features
-Usage
-Dataset
-Model
-Results
-Contributing
-Acknowledgments
+1. Features
+2. Usage
+3. Dataset
+4. Model
+5. Results
+6. Contributing
+7. Acknowledgments
 
 PROJECT DESCRIPTION :
 
@@ -39,23 +39,23 @@ MODEL :
 
 The project employs various machine learning models, including:
 
-Multinomial Naive Bayes
-Gaussian Naive Bayes
-XG Boost
-Bernoulli NB
-Logistic Regression
-Decision Tree
-Support Vector Classifier
-KNN
-Random Forest
-XGB
-XGBRF
+Multinomial Naive Bayes,
+Gaussian Naive Bayes,
+XG Boost,
+Bernoulli NB,
+Logistic Regression,
+Decision Tree,
+Support Vector Classifier,
+KNN,
+Random Forest,
+XGB,
+XGBRF.
 
 RESULTS:
 
 Model performance is evaluated using metrics such as accuracy and precision. The results are summarized as follows:
 
-Accuracy: 91%
+Accuracy: 91%, 
 Precision: 90%
 
 CONTRIBUTING : 
